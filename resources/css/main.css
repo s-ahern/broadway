@@ -9,8 +9,37 @@ h1 {
   color: white;
 }
 
-header {
-  background-image: url("resources/images/the-flatiron-building.png");
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
-/Users/scott/codecademy/broadway/resources/images/the-flatiron-building.png
-resources/images/the-flatiron-building.png
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+header {
+  background-image: url('../../resources/images/the-flatiron-building.png');
+}
+
+
+footer p {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+#designed-in-ny h3 {
+  color: white;
+  background-image: url('../../resources/images/the-flatiron-building.png');
+}
